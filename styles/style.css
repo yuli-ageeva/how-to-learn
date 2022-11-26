@@ -91,7 +91,6 @@
   width: 80%;
   justify-content: space-between;
   padding: 0;
-
 }
 
 .description_two-columns_brief {
@@ -131,7 +130,6 @@
   position: relative;
   margin-top: 100px;
   margin-bottom: 100px;
-
 }
 
 .section_title {
@@ -144,7 +142,6 @@
 
 .digits__section-title {
   margin: 0;
-
 }
 
 .section_subtitle {
@@ -158,8 +155,6 @@
 
 .digits__section-subtitle {
   width: 60%;
-
-
 }
 
 .content_table {
@@ -300,7 +295,6 @@
   height: 877px;
   width: 877px;
   top: 0;
-  z-index: 1;
 }
 
 .footer {
@@ -308,7 +302,6 @@
   background-color: #1f1f1f;
   min-height: 350px;
   justify-content: space-around;
-
 }
 
 .footer__columns {
@@ -317,7 +310,6 @@
   color: white;
   display: flex;
   justify-content: space-between;
-
 }
 
 .content_copyright {
