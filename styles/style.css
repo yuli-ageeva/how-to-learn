@@ -205,6 +205,8 @@
   background-color: #f2f2f2;
   height: 890px;
   position: relative;
+  padding-top: 100px;
+  box-sizing: border-box;
 }
 
 .title_feyman {
@@ -212,10 +214,10 @@
   text-align: center;
   line-height: 1.15;
   font-weight: 600;
-  margin-top: 100px;
-  margin-bottom: 0;
   z-index: 1;
   position: relative;
+  width: 648px;
+  margin: 0 auto;
 }
 
 .subtitle_feyman {
