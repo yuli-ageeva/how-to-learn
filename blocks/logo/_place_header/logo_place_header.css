@@ -1,0 +1,8 @@
+.logo_place_header {
+    position: absolute;
+    margin-left: 64px;
+    top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
