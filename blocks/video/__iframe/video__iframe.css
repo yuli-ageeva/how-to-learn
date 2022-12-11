@@ -1,5 +1,6 @@
-.video__iframe {
-    margin-top: 10px;
-    transform: translateY(40px);
-  }
-  
+.video__iframe{
+     margin: 0 20px 0 0;
+     border:none;
+     width: 515px;
+     height: 316px;
+}
